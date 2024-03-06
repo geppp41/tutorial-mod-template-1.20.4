@@ -1,3 +1,6 @@
 {
-  "item.tutorialmod.celestial_bronze_ingot": "Celestial Bronze Ingot"
+  "item.tutorialmod.celestial_bronze_ingot": "Celestial Bronze Ingot",
+  "block.tutorialmod.celestial_bronze_ore": "Celestial Bronze Ore",
+  "itemgroup.celestial_bronze": "Celestial Bronze Group",
+  "block.tutorialmod.celestial_bronze_block": "Celestial Bronze Block"
 }

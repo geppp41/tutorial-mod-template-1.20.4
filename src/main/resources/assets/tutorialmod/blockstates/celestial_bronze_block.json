@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tutorialmod:block/celestial_bronze_block"
+    }
+  }
+}

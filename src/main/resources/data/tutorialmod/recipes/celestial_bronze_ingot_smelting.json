@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "celestial_bronze_ingot",
+  "ingredient": {
+    "item": "tutorialmod:celestial_bronze_ore"
+  },
+  "result": "tutorialmod:celestial_bronze_ingot"
+}

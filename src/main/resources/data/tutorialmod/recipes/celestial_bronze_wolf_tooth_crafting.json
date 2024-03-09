@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:celestial_bronze_nugget"
+    },
+    "$": {
+      "item": "tutorialmod:wolf_tooth"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:celestial_bronze_wolf_tooth"
+  }
+}

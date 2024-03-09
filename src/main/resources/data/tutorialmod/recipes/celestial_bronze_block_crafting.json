@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:celestial_bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:celestial_bronze_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorialmod:celestial_bronze_ingot"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:celestial_bronze_nugget",
+    "count": 9
+  }
+}

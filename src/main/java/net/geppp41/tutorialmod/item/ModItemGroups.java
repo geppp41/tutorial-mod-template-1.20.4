@@ -18,6 +18,9 @@ public class ModItemGroups {
                         entries.add(ModItems.CELESTIAL_BRONZE_INGOT);
                         entries.add(ModBlocks.CELESTIAL_BRONZE_ORE);
                         entries.add(ModBlocks.CELESTIAL_BRONZE_BLOCK);
+                        entries.add(ModItems.CELESTIAL_BRONZE_WOLF_TOOTH);
+                        entries.add(ModItems.WOLF_TOOTH);
+                        entries.add(ModItems.CELESTIAL_BRONZE_NUGGET);
                     }).build());
     public static void registerItemGroups() {
         TutorialMod.LOGGER.info("Registering Item Groups for " + TutorialMod.MOD_ID);

@@ -13,6 +13,9 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item CELESTIAL_BRONZE_INGOT = registerItem("celestial_bronze_ingot", new Item(new FabricItemSettings()));
+    public static final Item WOLF_TOOTH = registerItem("wolf_tooth", new Item(new FabricItemSettings()));
+    public static final Item CELESTIAL_BRONZE_WOLF_TOOTH = registerItem("celestial_bronze_wolf_tooth", new Item(new FabricItemSettings()));
+    public static final Item CELESTIAL_BRONZE_NUGGET = registerItem("celestial_bronze_nugget", new Item(new FabricItemSettings()));
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(CELESTIAL_BRONZE_INGOT);
     }

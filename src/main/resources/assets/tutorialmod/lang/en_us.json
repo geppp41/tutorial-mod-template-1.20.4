@@ -2,5 +2,8 @@
   "item.tutorialmod.celestial_bronze_ingot": "Celestial Bronze Ingot",
   "block.tutorialmod.celestial_bronze_ore": "Celestial Bronze Ore",
   "itemgroup.celestial_bronze": "Celestial Bronze Group",
-  "block.tutorialmod.celestial_bronze_block": "Celestial Bronze Block"
+  "block.tutorialmod.celestial_bronze_block": "Celestial Bronze Block",
+  "item.tutorialmod.wolf_tooth": "Wolf Tooth",
+  "item.tutorialmod.celestial_bronze_wolf_tooth": "Celestial Bronze Wolf Tooth",
+  "item.tutorialmod.celestial_bronze_nugget": "Celestial Bronze Nugget"
 }

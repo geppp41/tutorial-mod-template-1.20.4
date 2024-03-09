@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:celestial_bronze_ore",
+    "tutorialmod:celestial_bronze_block"
+  ]
+}
